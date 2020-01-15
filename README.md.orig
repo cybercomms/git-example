@@ -1,7 +1,9 @@
 # git-example
 <<<<<<< HEAD
-# add new line of comment
-#some changes of this fileasdas
+# new line 1
+# new line 2
+# new line 3
 =======
 # add new line of commentadada
+#some changes of asasasblablabla
 >>>>>>>   Git message template
