@@ -1,0 +1,8 @@
+# git-example
+<<<<<<< HEAD
+# add new line of commentadasds
+=======
+# add new line of comment
+#some new changes
+#text I forgot to add
+>>>>>>> My commit with updated text
