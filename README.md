@@ -1,3 +1,3 @@
 # git-example
 # add new line of comment
-#some changes
+#some changes of this file
